@@ -38,8 +38,9 @@ This Java project, created for the purpose of testing knowledge, features a clas
 
 Contributions are welcome! This project serves as a platform for testing and improving knowledge. Feel free to suggest enhancements or report issues.
 
-👨‍💻 Author
-[CarlosEduardoBr4](https://github.com/CarlosEduardoBr04) 🚀
+## 👨‍💻 Author
+
+- [CarlosEduardoBr4](https://github.com/CarlosEduardoBr04) 🚀
 
 ### License 📜
 
